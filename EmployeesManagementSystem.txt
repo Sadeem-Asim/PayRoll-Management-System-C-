@@ -1,0 +1,12 @@
+E001-Sadeem Asim-CEO-200000-May-20-30-300-200000
+E002-Ali Arshad-Cleaner-2000-September-3-2-200-1800
+E003-Shahroz-Professor-3000-April-4-5-200-3000
+E004-Saima-Lecturer-60000-March-4-5-200-60000
+E005-Affan-Manager-6000-August-3-2-1000-5000
+E006-Mudassir Ali-Professor-30000-June-4-10-200-30000
+E007-Sajawal Ali-Clerk-20000-August-4-5-200-20000
+E008-Ather Jawad Mirza-professor-200000-August-4-2-2000-196000
+E007 -Khizar Asim-Video Editor-200-January-3-4-2-200
+E008 -Khurram-Guard-40000-June-6-3-2000-34000
+E009 -Umair-Washer-400-July-3-9000-1291-400
+E012 -Sajawal-Cr-40223-August-4-12-223-40223
